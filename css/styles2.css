@@ -1,0 +1,24 @@
+*{
+    background-color: burlywood;
+}
+h1{
+    color: cadetblue;
+    font-size: xx-large;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li{
+    text-decoration-color: mediumblue;
+    font-size: medium;
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+ul{
+    line-height: 30px;
+}
+p{
+    text-decoration: rgb(95, 70, 238);
+    font-size: large;
+    font-family: sans-serif;
+}
